@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93a5ceca3774ab24ead65616a8ca04c1, type: 3}
+  m_Name: A1_StoryIntro
+  m_EditorClassIdentifier: 
+  nextStates:
+  - {fileID: 11400000, guid: 4ebbb0333e3f5d848a223c6825b53a85, type: 2}
+  - {fileID: 11400000, guid: 5dba1d5544c81564994bbfa232c170fc, type: 2}
+  storyText: "You survey the battlefield that you've created. All sides have been
+    at war for a long time, and also evenly matched. Who will win? It will all be
+    decided on tonight.\r\n\r\n\"Hey! Its time to go to bed!\" your Mum says coming
+    into your room.\r\n\r\nOr at least it would be, if you didn't have to go to bed!\r\n\r\n\"Aw
+    Mum! I was just about to do something!\" you protest.\r\n\"Well you can do something
+    tomorrow, right now its bedtime, you know the rules. But before you do remember
+    to brush your teeth and put these toys away.\"\r\n\"But! but can't I leave them
+    out? I got everything set up and like everything! The final battle for the universe
+    is going to take place!\"\r\n\r\nYour Mum surveys everything you've set up. You
+    have a myriad of unusual toys and figures standing next to each other. You have
+    plastic knights standing\r\nnext to space men defending a castle made of blocks
+    on one side while across from them has a combination of green army guys in vehicles
+    and some metal robots.\r\nAnd yet on the far side of your room is another army
+    set up consisting of dinosaurs and some other monsters. She just smiles at your
+    creativeness.\r\n\r\n\"Very well, it looks like you went to a lot of trouble,
+    so okay. You certainly do have a vivid imagination to come up with some of the
+    games you do.\"\r\n\r\nHappily you go brush your teeth, and think about the battle
+    that's going to take place tomorrow! General Razor will try to storm the castle
+    and Lord Justice\r\nwill defend it! And then the Dino Demons will try to destroy
+    everything! It's going to be so cool!\r\n\r\nAfter brushing your teeth, you head
+    back to your room where you carefully step around the figures you've set up with
+    care and get into bed. \r\nOf course as usual, you don't fall asleep right away;
+    you read a couple pages of your favorite comic book first. Man you wish real
+    life wasn't as boring as it is.\r\nThere's no magic, no super heroes, no giant
+    robots, no nothing! You often wished you lived in a world with all of those things.\r\n\r\nYou
+    turn off the lights in your room when your Mum checks on you again and demands
+    you go to sleep. You're still a little to wound up to fall asleep though, \r\nso
+    you just lie in your bed thinking how tomorrows battle is going to play out.\r\n\r\nOf
+    course one bad thing about having an overactive imagination is letting it run
+    away with you. Your room is dark, with only the dim moonlight shining in\r\nand
+    creating creepy shadows on your walls. You begin to think the shadows are moving,
+    begin to get a little scared and hide under the covers. \r\nThen you think back
+    to something your Mum told you the last time you got scared like this: \"Monsters
+    aren't real. Nothing like that exists in this world.\"\r\nOf course she's right,
+    after all you just thought the world you lived in was boring by not having those
+    types of things in it.\r\n\r\nYou slowly peer out from under your covers, but
+    unfortunately this isn't the work of your imagination. \r\nThese shadows ARE
+    moving and now they're right by the side of your bed. Red dots form their eyes
+    and a bluish light form their grinning maws. \r\nBefore you can cry out, one
+    of them puts its hand over your mouth and puts its other hand to its own with
+    its index finger to its lips. \r\n(Or rather where its lips would be if it had
+    any)\r\n\r\n\"Shhhhhhh, the master wants to see you, there will be plenty of
+    time to cry then, little one. Open up the portal.\" The shadow says\r\n\r\nSuddenly
+    a purple portal opens up where your wardrobe is, and two of the shadow creatures
+    grab and carry you into it. \r\nThe shadows run around you as you're carried
+    down the green tunnel which the portal has lead into. \r\nThey excitedly talk
+    about how their master will be pleased for getting you. Of course all you're
+    doing right now is panicking, \r\nand you start to struggle to get away, surprisingly,
+    you manage to break free of their grip and start trying to run back to where
+    they entered this thing.\r\n\r\n\"Get him! He's trying to run away!\"\r\n\"Do
+    it quickly before the portal starts collapsing!\"\r\n\r\nAs you hear the shadows
+    giving orders to each other, the portal tunnel that you're in is indeed starting
+    to flash and blink a lot, \r\nwhen you look down at your running feet, the purple
+    light \"supporting\" you disappears every now and then revealing only blackness.
+    \r\nYou can see your room just up ahead and you ALMOST reach it, before the green
+    tunnel disappears completely.\r\n\r\nYou yell and scream about how you wish you
+    back home as you fall through the endless void, and while that doesn't happen,
+    you do suddenly appear someplace else\r\n\r\nYou land roughly, scraping your
+    legs and knees and getting your pajamas all dusty. After brushing yourself off
+    and rubbing your hurting legs, \r\nyou get a better look at your surroundings.\r\n\r\nYou're
+    in what looks to be the middle of nowhere, though there is a small group of rickety
+    looking houses nearby, probably a small village.\r\n\r\nOne thing is for certain,
+    you know you aren't on Earth, because, a small multi-colored lizard like creature
+    with three eyes scurries by your feet \r\nand into the wilderness beyond. You're
+    still scared, but also fascinated by this place; however, \r\nyou realize you
+    need to figure out how to get back home and what exactly is going on."
